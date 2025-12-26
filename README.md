@@ -1,6 +1,4 @@
-# CLI - A collection of useful command line interface scripts
-
-*   Context Menu Modifier for HTML and CSS files.
+#  Context Menu Modifier for HTML and CSS files.
     - This script adds or removes custom HTML/CSS template links for the
       "New" context menu entry in Windows Explorer.
      
