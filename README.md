@@ -16,9 +16,8 @@
      It is strongly recommended to back up your system (restore point,
      registry export, or full image) before making any registry changes.
      This takes only a few seconds and can prevent any potential regret.
-     
-                           For advanced users:
-                   ---------------------------------
+
+
      - You can open this script in a text editor and modify the registry
        commands or create your own custom versions.
      - If you are unsure about any change, search online for guidance.
